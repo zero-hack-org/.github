@@ -29,4 +29,6 @@ Use [Codecov](https://docs.codecov.com/docs) with GitHub Actions and Add report 
 
 [Ballerina Central](https://central.ballerina.io/zerohack?q=&page=1)
 
+[Slack](https://zero-hack.slack.com)
+
 Discuss code changes of the project via info@zero-hack.jp.
