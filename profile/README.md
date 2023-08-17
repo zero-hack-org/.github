@@ -14,6 +14,7 @@ kebab case / chain case
 |------|--------|
 | module | module-{module-name} |
 | micro service | service-{service-name} |
+| iac | iac-{iac-name} |
 
 ### CI
 
