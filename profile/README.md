@@ -24,7 +24,8 @@ Use [Codecov](https://docs.codecov.com/docs) with GitHub Actions and Add report 
 
 | Key | Description |
 |------|--------|
-| ZERO_HACK_BALLERINA_CENTRAL_ACCESS_TOKEN | Ballerina Central Key|
+| ZERO_HACK_BALLERINA_CENTRAL_ACCESS_TOKEN | Ballerina Central Key |
+| SLACK_HOOK_GHA_CI_URL | Slack WebHook URL |
 
 ## Useful links
 
