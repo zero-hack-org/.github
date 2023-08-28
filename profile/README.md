@@ -1,7 +1,5 @@
 ## 🇯🇵  ZeroHack Organization  🇯🇵
 
-I leave the source code seriously...
-
 ## Recommendation
 
 ### Naming
