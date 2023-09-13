@@ -13,6 +13,7 @@ kebab case / chain case
 | module | module-{module-name} |
 | service | service-{service-name} |
 | iac | iac-{iac-name} |
+| example | example-{example-name} |
 
 ### CI
 
